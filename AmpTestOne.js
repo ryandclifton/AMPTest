@@ -45,7 +45,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/amp/qualt
 
 		base_url : {//Where are your images at?
 			// image: "https://lillianparker.github.io/images"
-            image: "https://lillianparker.github.io/polisci_12/images/"
+            image: "https://ryandclifton.github.io/AMPTest/images/"
 		}
 	});
 });
